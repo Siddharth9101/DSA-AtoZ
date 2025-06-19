@@ -22,3 +22,9 @@ Feel free to connect, share feedback, or collaborate:
 💼 LinkedIn: https://www.linkedin.com/in/siddharth-saxena-b89260332/
 
 📧 Email: siddharthsaxena9101@gmail.com
+
+🔍 My Profiles:
+
+🌿 GeeksforGeeks: https://www.geeksforgeeks.org/user/siddharthsscnb/
+
+🧩 LeetCode: https://leetcode.com/u/r1DyXNeeL9/
